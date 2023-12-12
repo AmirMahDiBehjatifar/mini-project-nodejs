@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Laptop",
+        "description": "X Series laptop with an i7 processor and 8GB memory",
+        "price": 3500000
+    },
+    
+    {
+        "name": "Mobile Phone",
+        "description": "Samsung Galaxy S20 with a 64MP camera",
+        "price": 2500000
+    },
+    {
+        "name": "Tablet",
+        "description": "iPad Air with 32GB storage and a 10-inch display",
+        "price": 1500000
+    },
+    {
+        "name": "Digital Camera",
+        "description": "Canon EOS 80D digital camera with a 24MP sensor",
+        "price": 4500000
+    }
+]
